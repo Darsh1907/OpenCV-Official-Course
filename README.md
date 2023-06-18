@@ -3,13 +3,13 @@ This repository contains the code and resources I used to learn OpenCV from the 
 
 The course covers the following topics:
 
-Introduction to OpenCV
-Image Basics
-Image Processing
-Video Processing
-Computer Vision
-Object Detection
-Face Recognition
+1. Introduction to OpenCV
+2. Image Basics
+3. Image Processing
+4. Video Processing
+5. Computer Vision
+6. Object Detection
+7. Face Recognition
 
 OpenCV on Youtube :- https://www.youtube.com/@OpenCVCourses
 <br>
