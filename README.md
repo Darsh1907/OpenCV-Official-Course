@@ -1,5 +1,15 @@
-# OpenCV-Official-Course
-Repo on what I learnt in the OpenCV official crash course on Youtube
+# OpenCV
+This repository contains the code and resources I used to learn OpenCV from the official YouTube course.
+
+The course covers the following topics:
+
+Introduction to OpenCV
+Image Basics
+Image Processing
+Video Processing
+Computer Vision
+Object Detection
+Face Recognition
 
 OpenCV on Youtube :- https://www.youtube.com/@OpenCVCourses
 <br>
